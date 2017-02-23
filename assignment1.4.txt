@@ -1,0 +1,56 @@
+1: charactristics of big data are
+       *volume
+       *variety
+       *velocity
+       *varacity
+       *value
+
+ 
+volume:The quantity of data that is generated is very important
+       It is the size of the data which determine the value and potential of the data under consideration and whether it can actually be considered as Big Data or not depend on the size of the data
+       The name 'Big Data' itself contains a term which is related to size 
+       Hence Volume is one characteristic which needs to be considered while dealing with Big Data.
+
+
+variety:This means that the category to which Big Data belongs to is also a very essential fact that need to be known by the data analysts.
+        variety refers to heterogeneous sources and the nature of data, both structured and unstructured. 
+        spreadsheets and databases were the only sources of data considered by most of the applications.  
+        data in the form of emails, photos, videos, monitoring devices, PDFs, audio, etc. is also being considered in the analysis applications. 
+        This variety of unstructured data poses certain issues for storage, mining and analysing data.
+
+
+velocity: The term 'velocity' refers to the speed of generation of data. 
+          How fast the data is generated and processed to meet the demands, determines real potential in the data.
+          Big Data Velocity deals with the speed at which data flows in from sources like business processes, application logs, networks and social media sites, sensors, mobile devices, etc.
+           The flow of data is massive and continuous.can be shown by the data at times, thus hampering the process of being able to handle and manage the data effectively.
+
+varacity: A lot of data and a big variety of data with fast access are not enough.  
+         The data must have quality and produce credible results that enable right action when it comes to end of life decision making
+         The consistency and trustworthyness of data interems of accuracy
+
+value :value that includes a large volume and variety of data that is easy to access and delivers quality analytics that enables informed decisions. 
+
+
+====================================================================================================================================================================================================================
+2 :solutions to handle big data
+     *hadoop
+     *oracle
+     *hive
+     *pig
+   
+================================================================================================================================
+3:Difference beteween scalaing up ang scaling out
+
+
+    scaling up:It increases the configuration of a single system
+               complex,costly and time consuming process
+    scaling out:use multiple systems and the resources are shared among them
+                quick to implement
+                focuses on distribution of load
+
+
+
+
+
+
+
